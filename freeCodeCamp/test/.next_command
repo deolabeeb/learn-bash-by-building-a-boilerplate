@@ -51,3 +51,5 @@ ls --color=auto
 more LICENSE-MOT
 more LICENSE-MIT
 clear
+ls --color=auto
+ls --color=auto
