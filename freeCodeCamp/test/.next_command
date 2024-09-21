@@ -27,3 +27,5 @@ ls --color=auto
 echo hello terminal
 pwd
 ls --color=auto
+cd freecodecamp
+cd freeCodeCamp
